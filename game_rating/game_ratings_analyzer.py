@@ -37,7 +37,7 @@ def generate_report(ratings, top_n):
         print("All games have the same average rating.")
 
 def main():
-    path = "data\\game_ratings.csv"
+    path = "game_rating\\data\\game_ratings.csv"
     file_path = normalize_path(path)
     ratings = read_ratings(file_path)
     generate_report(ratings, 10)
