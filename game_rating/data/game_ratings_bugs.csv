@@ -1,12 +1,12 @@
-title,genre,rating
-Elden Ring,Action,10
-Baldur's Gate 3,RPG,9
-League of Legends,MOBA,8
-Cyberpunk 2077,RPG,not_a_number
-,Strategy,7
-Valorant,FPS,
-Elden Ring,Action,9
-Baldur's Gate 3,RPG,10
-Palworld,Survival,8
-The Sims 4,Simulation,11
-Counter-Strike 2,FPS,9
+title,genre,rating,remarks
+Elden Ring,Action,10,잼있어요!
+Baldur's Gate 3,RPG,9,대따 어려워요
+League of Legends,MOBA,8,
+Cyberpunk 2077,RPG,not_a_number,
+,Strategy,7,
+Valorant,FPS,,
+Elden Ring,Action,9,
+Baldur's Gate 3,RPG,10,
+Palworld,Survival,8,
+The Sims 4,Simulation,11,
+Counter-Strike 2,FPS,9,
